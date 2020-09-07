@@ -1,1 +1,1 @@
-# Fire_Fire_prediction
+# Forest_Fire_prediction
